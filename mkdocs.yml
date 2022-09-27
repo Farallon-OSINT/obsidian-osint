@@ -22,7 +22,7 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 extra_css:
-  - docs/stylesheets/publish.css
+  - assets/css/publish.css
 # Extensions
 markdown_extensions:
   - footnotes
